@@ -2,12 +2,11 @@
 layout: cv
 title: Katie Allen's Resume
 ---
-# Katie Allen
+# Bob Allen
 Data Science Professor at Brigham Young University - Idaho
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## THIS IS A CHANGE
 
 ## Education
 
@@ -21,11 +20,11 @@ Provo, UT
 
 ### Internships
 
-`January 2028 - June 2028`
+`January 2020 - June 2020`
 __Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
+- Worked on novel methods for soil sampling to reduce laboratory measurements.
+- Used R and Visual Sample Plan to establish new sampling algorithms.
 - Published a journal article in Environmental Quality.
 
 ### Data Science Lead
