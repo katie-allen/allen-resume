@@ -7,6 +7,8 @@ Data Science Professor at Brigham Young University - Idaho
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## THIS IS A CHANGE
+
 ## Education
 
 `2018`
